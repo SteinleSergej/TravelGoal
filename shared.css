@@ -33,7 +33,7 @@ nav ul{
     justify-content: space-around;
     align-items: center;
 }
-li a{
+nav li a{
     text-decoration: none;
     color: rgb(245, 243, 160);
     font-size: 25px;
@@ -41,7 +41,7 @@ li a{
     text-shadow: 2px 4px 8px black;
 }
 
-li a:hover{
+nav li a:hover{
     font-size: 30px;
 }
 
